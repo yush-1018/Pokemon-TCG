@@ -381,27 +381,3 @@ the Simulator updates the game,
 and returns a new Game State.
 
 This loop continues until the match finishes.
-
----
-
-# Day 1 Learning Outcome
-
-After completing Day 1, I should be able to answer:
-
-✔ How Pokémon TCG works.
-
-✔ What happens during a turn.
-
-✔ Different card types.
-
-✔ How Energy works.
-
-✔ How players win.
-
-✔ What the SDK is.
-
-✔ What the Sample Agent does.
-
-✔ Why logs are important.
-
-✔ Basic architecture of the competition.
